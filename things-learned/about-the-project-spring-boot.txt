@@ -1,0 +1,40 @@
+what the project is all about
+Explain high level and low level desgins
+technology stack
+chanllenges you faced!
+Things you learned!
+Things you improve / add
+features included
+
+EXPLAINING THE PROJECT, HOW IT WORKS
+flow of the project
+model.Post.java -> PostRepository -> Controller.PostController.java
+
+
+THINGS YOU LEARNED
+1. Spring vs Spring boot
+	- Spring is a lightweight-framework used to build enterprise level application. It takes care of lot of low level stuff and gives a an abstraction to work upon.
+	- Spring boot is framework build upon spring. It is opinioated. It has lot of default configurations of spring already taken care of so that the developer can start working on the deployable project right away
+
+2. Settinup up Maven (build tools)
+
+3. Aiven cloud Manager
+
+4. pom.xml, containing dependencies
+
+5. MVC architecture, Creating MVC arch in spring boot
+
+6. Mongodb Atlas and mongodb compass
+	- both are gui for mongodb. One is web based other in a desktop application
+
+7. Connecting spring boot to mongodb atlas
+
+8. Deploying front and backend
+	backend - cloudfoundry
+
+
+
+
+
+PROBLEMS FACED
+Deploying the backend, tried many services like cloud foundry, vercel, read many docs, offical docs. But used railway in the endf 
