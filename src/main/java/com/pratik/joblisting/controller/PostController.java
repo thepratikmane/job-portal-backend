@@ -10,7 +10,7 @@ import java.util.List;
 
 // "post" here means job post
 @RestController
-@CrossOrigin(origins = "https://vercel.com/thepratikmane/job2")
+@CrossOrigin(origins = "job2-lake.vercel.app")
 public class PostController {
 
     @Autowired
